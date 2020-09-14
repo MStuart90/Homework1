@@ -10,3 +10,5 @@ My next update to the homework assignment was to address the image elements and 
 Line 54 alt= “Arrow pointing down to a money symbol indicating lead-generating results in money.” 
 Line 64 alt= “light bulb with sound waves indicating ideas getting advertised.”
 Line 68 alt= “ Money symbol  with moving gears saving money.”
+
+Additionally, the navbar buttons were not previously addressed. To fix and make the nav buttons functional.  We use href="#" for test links. In a real website, this would be URLs. So to proceed I removed the # from in front f the URLs to make them functional links. 
