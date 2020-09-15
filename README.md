@@ -11,4 +11,8 @@ Line 54 alt= “Arrow pointing down to a money symbol indicating lead-generating
 Line 64 alt= “light bulb with sound waves indicating ideas getting advertised.”
 Line 68 alt= “ Money symbol  with moving gears saving money.”
 
-Additionally, the navbar buttons were not previously addressed. To fix and make the nav buttons functional.  We use href="#" for test links. In a real website, this would be URLs. So to proceed I removed the # from in front f the URLs to make them functional links. 
+Additionally, the navbar buttons were not previously addressed. To fix and make the nav buttons functional.  We use href="#" for test links. In a real website, this would be URLs. So to proceed, I removed the # from in front f the URLs to make them functional links. 
+
+Added ".jpg to the end of "online-reputation-management" to line 19.
+
+Also added ".jpg" to the end of social-media-marketing" on line 22. 
